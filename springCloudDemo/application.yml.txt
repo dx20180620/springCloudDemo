@@ -1,2 +1,0 @@
-spring£º
-   application£º config
